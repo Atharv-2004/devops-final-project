@@ -1,5 +1,7 @@
 const Account = require("../models/Account");
 
+
+//hfiuwfhisln
 const registerNewAccount = async (req, res) => {
   try {
     const { name, email } = req.body;
