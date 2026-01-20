@@ -105,7 +105,7 @@ Kubernetes deployment is managed using declarative manifests.
 ### Deployment
 
 * 1 replica
-* Image from DockerHub (`bhav55/devops-node-api-user1:latest`)
+* Image from DockerHub (`atharv123455/github-actions-devops-assignment-user1`)
 * Container port: 4000
 
 ### Service
